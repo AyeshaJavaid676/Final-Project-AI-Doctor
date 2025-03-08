@@ -114,7 +114,7 @@ def text_to_speech_with_elevenlabs(input_text, output_filepath):
 import gradio as gr
 
 from voice_of_the_patient import transcribe_with_groq
-from voice_of_the_doctor import text_to_speech_with_gtts, text_to_speech_with_elevenlabs
+from Doctor_Voice_Module import text_to_speech_with_gtts, text_to_speech_with_elevenlabs
 
 system_prompt=""" You have to act like a professional doctor.
             What's in this image?. Do you find anything wrong with it medically? 
