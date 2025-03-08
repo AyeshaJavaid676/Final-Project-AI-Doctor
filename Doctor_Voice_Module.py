@@ -1,6 +1,4 @@
-# if you dont use pipenv uncomment the following:
-# from dotenv import load_dotenv
-# load_dotenv()
+
 
 #Step1a: Setup Text to Speech–TTS–model with gTTS
 import os
