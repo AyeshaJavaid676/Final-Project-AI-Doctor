@@ -3,11 +3,11 @@
 import os
 import gradio as gr
 
-from brain_of_the_doctor import encode_image, analyze_image_with_query
+from Medical_Advice_Engine import encode_image, analyze_image_with_query
 from voice_of_the_patient import record_audio, transcribe_with_groq
-from voice_of_the_doctor import text_to_speech_with_gtts, text_to_speech_with_elevenlabs
+from Doctor_Voice_Module import text_to_speech_with_gtts, text_to_speech_with_elevenlabs
 
-#load_dotenv()
+
 
 system_prompt=""" You have to act like a professional doctor.
             What's in this image?. Do you find anything wrong with it medically? 
