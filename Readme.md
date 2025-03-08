@@ -11,7 +11,7 @@ This AI-powered engine analyzes **medical images** and **text queries** for prel
 
 ---
 
-![Medical Advice Engine Diagram](https://raw.githubusercontent.com/AyeshaJavaid676/Final-Project-AI-Doctor/main/Blank diagram (3).jpeg)
+![Medical Advice Engine Diagram](https://raw.githubusercontent.com/AyeshaJavaid676/Final-Project-AI-Doctor/main/Tech_Diagram.jpeg)
 
 ## 🛠️ Setup & Installation
 ### 1️⃣ Install Visual Studio Code (VS Code)
