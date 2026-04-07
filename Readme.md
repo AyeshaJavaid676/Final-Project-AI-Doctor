@@ -155,7 +155,7 @@ if not GROQ_API_KEY:
 ## 📺 Project Demo walkthrough
 Click the image below to watch the full project execution on Google Drive:
 
-[![Watch the Demo](output/thumbnail.png)](https://drive.google.com/file/d/1byJuXI1b8M0kh72PsZrz9TIp7E7XBk0N/view?usp=sharing)
+[![Watch the Demo](output/Thumbnail.PNG)](https://drive.google.com/file/d/1byJuXI1b8M0kh72PsZrz9TIp7E7XBk0N/view?usp=sharing)
 
 *Note: This video covers the end-to-end workflow, including data ingestion and final result visualization.*
 
