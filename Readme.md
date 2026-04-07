@@ -19,7 +19,7 @@ First, download and install **VS Code** from the official website: [VS Code Down
 
 ### 2️⃣ Clone Repository
 ```bash
-git clone https://github.com/your-username/medical-advice-engine.git
+git clone https://github.com/AyeshaJavaid676/Final-Project-AI-Doctor.git
 cd medical-advice-engine
 ```
 
