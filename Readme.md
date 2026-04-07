@@ -161,7 +161,7 @@ if not GROQ_API_KEY:
 ---
 
 ## 👨‍💻 Contributors
-- **Your Name** - Ayesha Javaid
+ Ayesha Javaid
 
 ---
 
